@@ -1,0 +1,12 @@
+{
+  "name": "my_message_broker_lab",
+  "version": "1.0.0",
+  "description": "lab message broker",
+  "main": "index.js",
+  "author": "Talita Silveira",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node index.js"
+  }
+}
